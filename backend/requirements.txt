@@ -1,0 +1,12 @@
+gevent
+cryptography>=3.3.2
+gunicorn
+Flask
+Flask-Cors
+Flask-JWT-Extended>=4.0.0
+Flask-SQLAlchemy
+PyMySQL
+Werkzeug
+Flask-SocketIO
+python-socketio
+Faker
