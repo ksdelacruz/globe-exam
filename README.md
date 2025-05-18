@@ -1,8 +1,10 @@
 # Globe Exam App
 
-[![Watch the demo](https://img.youtube.com/vi/kDag-9gnji8/0.jpg)](https://youtu.be/kDag-9gnji8)
-
 A full-stack e-commerce demo application featuring user authentication, product browsing, cart management, and real-time promotions. The app is built with a React frontend, Flask backend (with Flask-SocketIO for real-time features), and MySQL database, all orchestrated with Docker Compose for easy local development and production deployment.
+
+**Watch the demo here:**
+
+[![Watch the demo](https://img.youtube.com/vi/kDag-9gnji8/0.jpg)](https://youtu.be/kDag-9gnji8)
 
 ---
 
